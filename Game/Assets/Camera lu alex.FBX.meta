@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: 0e8f2e76d9e279a4fba5639dca113cd1
+timeCreated: 1457021217
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Chair
+    100004: Chair003
+    100006: Chair004
+    100008: Chair005
+    100010: Chair006
+    100012: Chair007
+    100014: Chair008
+    100016: Chair2
+    100018: Desk
+    100020: DeskLamp
+    100022: Door
+    100024: Floor
+    100026: Lamp
+    100028: Lamp1
+    100030: Lamp1 1
+    100032: Lamp2Down
+    100034: Lamp2Down 1
+    100036: Lamp2Light
+    100038: Lamp2Light 1
+    100040: Lamp2UP
+    100042: Lamp2UP 1
+    100044: Light
+    100046: Room
+    100048: Room2Out
+    100050: Tv
+    100052: TV Screen
+    100054: TV Screen001
+    100056: Tv001
+    100058: TV1
+    100060: TV2
+    100062: Window
+    400000: //RootNode
+    400002: Chair
+    400004: Chair003
+    400006: Chair004
+    400008: Chair005
+    400010: Chair006
+    400012: Chair007
+    400014: Chair008
+    400016: Chair2
+    400018: Desk
+    400020: DeskLamp
+    400022: Door
+    400024: Floor
+    400026: Lamp
+    400028: Lamp1
+    400030: Lamp1 1
+    400032: Lamp2Down
+    400034: Lamp2Down 1
+    400036: Lamp2Light
+    400038: Lamp2Light 1
+    400040: Lamp2UP
+    400042: Lamp2UP 1
+    400044: Light
+    400046: Room
+    400048: Room2Out
+    400050: Tv
+    400052: TV Screen
+    400054: TV Screen001
+    400056: Tv001
+    400058: TV1
+    400060: TV2
+    400062: Window
+    2300000: Chair
+    2300002: Chair003
+    2300004: Chair004
+    2300006: Chair005
+    2300008: Chair006
+    2300010: Chair007
+    2300012: Chair008
+    2300014: Chair2
+    2300016: Desk
+    2300018: Door
+    2300020: Floor
+    2300022: Lamp
+    2300024: Lamp2Down
+    2300026: Lamp2Down 1
+    2300028: Lamp2Light
+    2300030: Lamp2Light 1
+    2300032: Lamp2UP
+    2300034: Lamp2UP 1
+    2300036: Light
+    2300038: Room
+    2300040: Room2Out
+    2300042: Tv
+    2300044: TV Screen
+    2300046: TV Screen001
+    2300048: Tv001
+    2300050: Window
+    3300000: Chair
+    3300002: Chair003
+    3300004: Chair004
+    3300006: Chair005
+    3300008: Chair006
+    3300010: Chair007
+    3300012: Chair008
+    3300014: Chair2
+    3300016: Desk
+    3300018: Door
+    3300020: Floor
+    3300022: Lamp
+    3300024: Lamp2Down
+    3300026: Lamp2Down 1
+    3300028: Lamp2Light
+    3300030: Lamp2Light 1
+    3300032: Lamp2UP
+    3300034: Lamp2UP 1
+    3300036: Light
+    3300038: Room
+    3300040: Room2Out
+    3300042: Tv
+    3300044: TV Screen
+    3300046: TV Screen001
+    3300048: Tv001
+    3300050: Window
+    4300000: Room
+    4300002: Desk
+    4300004: Window
+    4300006: Door
+    4300008: Room2Out
+    4300010: Floor
+    4300012: Lamp2UP
+    4300014: Lamp2Light
+    4300016: Lamp2Down
+    4300018: Lamp2Down
+    4300020: Lamp2Light
+    4300022: Lamp2UP
+    4300024: Lamp
+    4300026: Light
+    4300028: Tv001
+    4300030: TV Screen001
+    4300032: Tv
+    4300034: TV Screen
+    4300036: Chair
+    4300038: Chair2
+    4300040: Chair003
+    4300042: Chair004
+    4300044: Chair005
+    4300046: Chair006
+    4300048: Chair007
+    4300050: Chair008
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

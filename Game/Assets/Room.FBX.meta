@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: a49eda89f492aaa449bba233dc762956
+timeCreated: 1457020499
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bed
+    100002: Bed2
+    100004: Desk
+    100006: Door
+    100008: Floor
+    100010: Lamp
+    100012: Lamp2Down
+    100014: Lamp2Light
+    100016: Lamp2UP
+    100018: Light
+    100020: Pillow
+    100022: Pillow2
+    100024: //RootNode
+    100026: Room
+    100028: Room2Out
+    100030: Shelf
+    100032: Teapot001
+    100034: Tv
+    100036: TV Screen
+    100038: Window
+    400000: Bed
+    400002: Bed2
+    400004: Desk
+    400006: Door
+    400008: Floor
+    400010: Lamp
+    400012: Lamp2Down
+    400014: Lamp2Light
+    400016: Lamp2UP
+    400018: Light
+    400020: Pillow
+    400022: Pillow2
+    400024: Room
+    400026: //RootNode
+    400028: Room2Out
+    400030: Shelf
+    400032: Teapot001
+    400034: Tv
+    400036: TV Screen
+    400038: Window
+    2300000: Bed
+    2300002: Bed2
+    2300004: Desk
+    2300006: Door
+    2300008: Floor
+    2300010: Lamp
+    2300012: Lamp2Down
+    2300014: Lamp2Light
+    2300016: Lamp2UP
+    2300018: Light
+    2300020: Pillow
+    2300022: Pillow2
+    2300024: Room
+    2300026: Room2Out
+    2300028: Shelf
+    2300030: Teapot001
+    2300032: Tv
+    2300034: TV Screen
+    2300036: Window
+    3300000: Bed
+    3300002: Bed2
+    3300004: Desk
+    3300006: Door
+    3300008: Floor
+    3300010: Lamp
+    3300012: Lamp2Down
+    3300014: Lamp2Light
+    3300016: Lamp2UP
+    3300018: Light
+    3300020: Pillow
+    3300022: Pillow2
+    3300024: Room
+    3300026: Room2Out
+    3300028: Shelf
+    3300030: Teapot001
+    3300032: Tv
+    3300034: TV Screen
+    3300036: Window
+    4300000: Room
+    4300002: Desk
+    4300004: Teapot001
+    4300006: Lamp
+    4300008: Light
+    4300010: Window
+    4300012: Bed
+    4300014: Tv
+    4300016: Shelf
+    4300018: Door
+    4300020: TV Screen
+    4300022: Pillow
+    4300024: Pillow2
+    4300026: Bed2
+    4300028: Room2Out
+    4300030: Lamp2Down
+    4300032: Lamp2Light
+    4300034: Lamp2UP
+    4300036: Floor
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
